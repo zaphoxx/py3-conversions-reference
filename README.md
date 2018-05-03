@@ -5,17 +5,17 @@ Because I seem to be not able to remember a conversion for too long I made mysel
 </p>
 
 <p>
-  # convert a string into a bytes object
-  # convert a bytes object into a string
+  # convert a string into a bytes object<br>
+  # convert a bytes object into a string<br>
 <code>
-  s = 'hack the world'
-  b = s.encode('utf-8') # other encodings can be used as necessary but I typically use utf-8
-  s2 = b.decode('utf-8)
+  s = 'hack the world'<br>
+  b = s.encode('utf-8') # other encodings can be used as necessary but I typically use utf-8<br>
+  s2 = b.decode('utf-8)<br>
 </code></p>
 <p>
-  # create a bytes object from scratch
+  # create a bytes object from scratch<br>
 <code>
-  b = b'hack the world'
+  b = b'hack the world'<br>
   </code>
   </p>
   
