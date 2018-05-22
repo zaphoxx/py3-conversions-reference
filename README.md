@@ -4,7 +4,7 @@ examples of various bytes to hex to string to bin conversions for reference
 Because I seem to be not able to remember a conversion for too long I made myself that little cheatsheet on conversions. Feel free to copy or add other conversion examples to the existing list.
 </p>
 <p>
-  <img src='https://github.com/zaphoxx/py3-conversions-reference/blob/master/conversions_samples.jpg' alt='conversion samples'>
+  <img src='https://github.com/zaphoxx/py3-conversions-reference/blob/master/2018-05-22%2013_00_29-Clipboard.png'>
   </p>
 <p>
   # convert a string into a bytes object<br>
